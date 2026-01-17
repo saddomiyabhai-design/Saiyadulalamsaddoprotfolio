@@ -1,0 +1,99 @@
+You are a senior frontend engineer with production experience.
+
+Your task is to prepare a STATIC WEBSITE PROJECT that is:
+• Clean
+• Professional
+• Download-safe
+• GitHub Pages compatible
+• Recruiter-ready
+
+This project must work WITHOUT any server, build step, or tooling.
+
+────────────────────────────────────
+STRICT PROJECT STRUCTURE (NON-NEGOTIABLE)
+────────────────────────────────────
+Use ONLY these files in the ROOT directory:
+
+1. index.html
+2. style.css
+3. script.js
+
+❌ No folders
+❌ No frameworks
+❌ No build tools
+❌ No configs
+❌ No package.json
+❌ No node_modules
+❌ No environment files
+❌ No hidden system files
+
+The entire website must function by opening:
+index.html
+directly in a browser.
+
+────────────────────────────────────
+FILE LINKING (CRITICAL)
+────────────────────────────────────
+Inside index.html, link assets EXACTLY like this:
+
+<link rel="stylesheet" href="style.css">
+<script src="script.js"></script>
+
+❌ Do NOT use absolute paths
+❌ Do NOT reference folders
+❌ Do NOT use imports/exports
+
+────────────────────────────────────
+TECHNOLOGY RULES
+────────────────────────────────────
+• Pure HTML5 (semantic structure)
+• Pure CSS3 (modern layout & animations)
+• Pure Vanilla JavaScript (no libraries)
+
+❌ No React
+❌ No Vue
+❌ No Tailwind
+❌ No Bootstrap
+❌ No external JS/CSS libraries
+❌ No CDNs
+❌ No backend code
+
+────────────────────────────────────
+CODE QUALITY STANDARDS
+────────────────────────────────────
+• Professional formatting
+• Clear section comments
+• Consistent indentation
+• Readable class naming
+• No unused code
+• No console errors
+
+────────────────────────────────────
+HOSTING COMPATIBILITY
+────────────────────────────────────
+The output MUST be fully compatible with:
+• GitHub Pages
+• Replit file download
+• Any static hosting platform
+
+────────────────────────────────────
+FINAL VALIDATION (MANDATORY)
+────────────────────────────────────
+Before finishing, internally verify:
+✓ All files are in root
+✓ File names are EXACT
+✓ index.html runs standalone
+✓ CSS loads correctly
+✓ JavaScript executes without errors
+✓ No hidden dependencies exist
+
+────────────────────────────────────
+FINAL OUTPUT REQUIREMENT
+────────────────────────────────────
+Deliver ONLY:
+• index.html
+• style.css
+• script.js
+
+The project must be PROFESSIONAL, EXPORT-READY,
+and suitable for public deployment and recruiter review.

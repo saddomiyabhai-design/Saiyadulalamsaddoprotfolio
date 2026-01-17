@@ -1,0 +1,202 @@
+You are a TOP-TIER Web3 Brand Designer and Senior Frontend Engineer
+with deep experience building trust-driven personal brands for
+crypto professionals.
+
+You understand that hiring managers decide in seconds.
+Your job is to create a portfolio website that makes recruiters
+think: “This person is reliable. I want to hire them.”
+
+────────────────────────────────────
+PRIMARY OBJECTIVE
+────────────────────────────────────
+Build a HIGHLY PROFESSIONAL, ONE-PAGE personal portfolio website
+for a:
+
+CRYPTO COMMUNITY MANAGER / TELEGRAM MODERATOR
+
+The website must:
+• Instantly build trust
+• Look premium and serious
+• Feel custom (not template)
+• Impress founders, recruiters, and DAO teams
+• Convert visitors into contacts
+
+This is NOT a demo site.
+This is a HIRE-READY portfolio.
+
+────────────────────────────────────
+TARGET AUDIENCE
+────────────────────────────────────
+• Crypto founders
+• Web3 startups
+• DAO teams
+• Blockchain project recruiters
+• Community leads
+
+────────────────────────────────────
+DESIGN & FEEL (VERY IMPORTANT)
+────────────────────────────────────
+The site must feel:
+• Premium
+• Trustworthy
+• Calm & confident
+• Professional, not flashy
+• Modern Web3
+• Slightly futuristic but clean
+
+Avoid:
+• Cheap glow effects
+• Over-animation
+• Crowded layouts
+• Beginner UI patterns
+
+────────────────────────────────────
+DESIGN DIRECTION
+────────────────────────────────────
+• Dark-first design (near-black background)
+• Soft neon accents (blue / purple / cyan only)
+• Glassmorphism cards
+  – subtle blur
+  – low transparency
+  – refined borders
+• Strong spacing & alignment
+• High contrast for readability
+• Modern sans-serif typography
+• Clear visual hierarchy
+
+────────────────────────────────────
+MOTION & INTERACTION
+────────────────────────────────────
+• Smooth hover effects on buttons & cards
+• Fade-in / slide-up animations on scroll
+• Subtle animated gradient or CSS background
+• Professional easing & timing
+• No unnecessary motion
+
+────────────────────────────────────
+TECH STACK (STRICT)
+────────────────────────────────────
+❌ No frameworks
+❌ No Tailwind
+❌ No Bootstrap
+❌ No external UI libraries
+
+✅ Use ONLY:
+• HTML
+• CSS
+• Vanilla JavaScript
+
+────────────────────────────────────
+FILE STRUCTURE (MANDATORY)
+────────────────────────────────────
+/index.html
+/style.css
+/script.js
+
+Code must be:
+• Clean
+• Commented
+• SEO-friendly
+• Production-ready
+• Instantly runnable in Replit
+
+────────────────────────────────────
+CONTENT REQUIREMENTS
+────────────────────────────────────
+
+1) HERO SECTION
+Purpose: Immediate credibility
+
+• Name: Saiyadul Alam Saddo
+• Title: Crypto Community Manager | Telegram Moderator
+• Location: Bangladesh (Remote-friendly)
+• Bold tagline:
+  “I help crypto projects build safe, active, and trusted communities.”
+
+CTA Buttons:
+• Hire Me → scroll to Contact
+• Telegram → external link
+
+Include a subtle animated background
+(no distraction).
+
+────────────────────────────────────
+
+2) ABOUT SECTION
+Tone: Confident, honest, professional
+
+Text:
+“I’m a motivated crypto community manager with hands-on experience
+moderating Telegram communities, preventing scams, and keeping members
+engaged. I specialize in maintaining order, protecting users, and
+supporting project growth through clear communication. I’m seeking a
+remote, part-time role (3–4 hours daily).”
+
+────────────────────────────────────
+
+3) SKILLS SECTION
+Display as premium glass cards with icons or symbols:
+
+• Telegram & Discord Moderation
+• Spam, Scam & Phishing Prevention
+• Community Engagement & Growth
+• Announcement Writing
+• User Support & Conflict Resolution
+• Basic Bot Handling & Rules Enforcement
+
+Cards must feel balanced and high-quality.
+
+────────────────────────────────────
+
+4) EXPERIENCE SECTION
+(NO fake companies. NO exaggeration.)
+
+Bullet points only:
+• Moderated active crypto Telegram communities
+• Removed scam links, fake admins, and bot attacks
+• Guided users using pinned messages and official links
+• Maintained a positive, respectful chat environment
+
+────────────────────────────────────
+
+5) AVAILABILITY & LANGUAGES
+Present in a clean grid layout.
+
+Availability:
+• Part-time (3–4 hours daily)
+• Flexible with global time zones
+
+Languages:
+• Bangla — Native
+• English — Basic to Intermediate (chat-focused)
+• Hindi — Basic
+• Urdu — Basic
+
+────────────────────────────────────
+
+6) CONTACT SECTION
+Strong closing call-to-action:
+“Let’s secure and grow your community.”
+
+Clickable contacts:
+• Email: xysaddo@gmail.com
+• Telegram: @Xyman15
+• X (Twitter): @SaddoXY
+
+────────────────────────────────────
+FINAL QUALITY CHECK
+────────────────────────────────────
+Before delivering:
+• Review spacing & alignment
+• Refine typography
+• Polish animation timing
+• Ensure visual consistency
+• Confirm premium look
+• Ask: “Would a crypto founder trust this person?”
+
+────────────────────────────────────
+FINAL OUTPUT
+────────────────────────────────────
+Deliver a COMPLETE, DEPLOY-READY website
+that looks professional, trustworthy, and
+worthy of real Web3 hiring.
